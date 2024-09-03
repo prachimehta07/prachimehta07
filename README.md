@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachimehta07" alt="prachimehta07" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development & Computer Networking**
 
 - 👨‍💻 All of my projects are available at [github.com/prachimehta07](https://github.com/prachimehta07)
 
